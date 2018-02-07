@@ -2,6 +2,7 @@
 
 puts "Hello Universe"
 
-puts "Goodbye"
+puts "tell us simething"
+input = gets.chomp
 
-puts "hello"
+puts input
